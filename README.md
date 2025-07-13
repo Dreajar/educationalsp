@@ -1,10 +1,10 @@
 A Language Server built to learn **WHAT** LSP is and **HOW** it works.
 
-In Neovim, hover your cursor over a word and press **Shift** + k
+In Neovim, hover your cursor over a word and press `Shift` + `k`
 
 Note that kickstart.nvim comes with an LspAttach, so you don't have to write your own on_attach function. Instead you only have to write something like this:
 
-`
+```lua
 local client = nil
 
 vim.api.nvim_create_autocmd('FileType', {
@@ -25,4 +25,4 @@ vim.api.nvim_create_autocmd('FileType', {
     vim.notify 'LSP attached!'
   end,
 })
-`
+```

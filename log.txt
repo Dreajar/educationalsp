@@ -1,0 +1,16 @@
+[educationalsp]2025/07/13 09:33:32 main.go:23: Hey I started :)
+[educationalsp]2025/07/13 09:33:32 main.go:48: Received msg with method: initialize
+[educationalsp]2025/07/13 09:33:32 main.go:57: Connected to: Neovim 0.11.2+ga73904168a
+[educationalsp]2025/07/13 09:33:32 main.go:48: Received msg with method: initialized
+[educationalsp]2025/07/13 09:33:32 main.go:48: Received msg with method: textDocument/didOpen
+[educationalsp]2025/07/13 09:33:32 main.go:70: Opened: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:33:45 main.go:48: Received msg with method: textDocument/hover
+[educationalsp]2025/07/13 09:33:45 main.go:48: Received msg with method: textDocument/didOpen
+[educationalsp]2025/07/13 09:33:45 main.go:70: Opened: file://
+[educationalsp]2025/07/13 09:34:05 main.go:48: Received msg with method: textDocument/didClose
+[educationalsp]2025/07/13 09:34:07 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:34:07 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:34:13 main.go:48: Received msg with method: textDocument/hover
+[educationalsp]2025/07/13 09:34:13 main.go:48: Received msg with method: textDocument/didOpen
+[educationalsp]2025/07/13 09:34:13 main.go:70: Opened: file://
+[educationalsp]2025/07/13 09:34:52 main.go:48: Received msg with method: textDocument/didClose

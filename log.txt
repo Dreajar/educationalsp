@@ -14,3 +14,142 @@
 [educationalsp]2025/07/13 09:34:13 main.go:48: Received msg with method: textDocument/didOpen
 [educationalsp]2025/07/13 09:34:13 main.go:70: Opened: file://
 [educationalsp]2025/07/13 09:34:52 main.go:48: Received msg with method: textDocument/didClose
+[educationalsp]2025/07/13 09:36:44 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:44 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:44 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:44 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:45 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:45 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:48 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:48 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:49 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:49 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:49 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:49 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:49 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:49 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:50 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:50 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:50 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:50 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:50 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:50 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:50 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:50 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:50 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:50 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:50 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:50 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:51 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:51 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:51 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:51 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:51 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:51 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:51 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:51 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:51 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:51 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:54 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:54 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:54 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:54 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:55 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:55 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:55 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:55 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:55 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:55 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:55 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:55 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:55 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:55 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:55 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:55 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:56 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:56 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:56 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:56 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:56 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:56 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:58 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:58 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:58 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:58 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:58 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:58 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:58 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:58 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:58 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:58 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:59 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:59 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:36:59 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:36:59 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:00 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:00 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:00 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:00 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:00 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:00 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:00 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:00 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:00 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:00 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:00 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:00 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:02 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:02 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:02 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:02 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:02 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:02 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:06 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:06 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:06 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:06 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:06 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:06 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:06 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:06 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:07 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:07 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:07 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:07 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:07 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:07 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:07 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:07 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:07 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:07 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:08 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:08 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:08 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:08 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:08 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:08 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:08 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:08 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:10 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:10 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:11 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:11 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:11 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:11 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:11 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:11 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:11 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:11 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:11 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:11 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:12 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:12 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:14 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:14 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:14 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:14 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:14 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:14 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:14 main.go:48: Received msg with method: textDocument/didChange
+[educationalsp]2025/07/13 09:37:14 main.go:79: Changed: file:///C:/Users/lmail/source/repos/educationalsp/README.md
+[educationalsp]2025/07/13 09:37:17 main.go:48: Received msg with method: textDocument/didSave
